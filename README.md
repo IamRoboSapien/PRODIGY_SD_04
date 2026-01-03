@@ -2,7 +2,7 @@
 # CONTACT MANAGEMENT
 
 ## Project Title
-A concise and descriptive title for your project (e.g., “Contact Management System” or “Smart Agriculture Web App”).
+A concise and descriptive title for my project “Contact Management System”.
 
 ## Technologies Used
 	• Programming Language(s): C / C++ / Python / JavaScript
